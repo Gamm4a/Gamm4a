@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="741" height="835" alt="image (1)" src="https://github.com/user-attachments/assets/293229f9-0932-4711-9ca6-fc8a72438ef7" />
+
 
 <!--
 **Gamm4a/Gamm4a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
